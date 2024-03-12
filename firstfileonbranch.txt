@@ -1,5 +1,6 @@
 change made locally
 change made remote
+another line 3rd one from local
 1
 2
 3
