@@ -3,4 +3,8 @@ change made remote
 1
 2
 3
+<<<<<<< HEAD
 4
+=======
+5
+>>>>>>> 995e57243773b73b635ae1ffe78bd287eebc8098
